@@ -1,4 +1,8 @@
 # 3.0 Beta
+### 3.0.5
+2017/04/21
+#### Bug Fix
+- <font color=red>修復因angular-ui-bootstrap更新導致分頁功能無法正常顯示異常</font>
 ### 3.0.4
 2017/04/19
 ##### Memo
