@@ -1,5 +1,6 @@
 # 長庚醫院電子學習護照Patch Notes
 #### [3.1](https://github.com/kcwang-tw/cgmhlp-patch-note/blob/master/3-1.md)
+- [3.1.1](https://github.com/kcwang-tw/cgmhlp-patch-note/blob/master/3-1.md#312) - 2017/08/22
 - [3.1.1](https://github.com/kcwang-tw/cgmhlp-patch-note/blob/master/3-1.md#311) - 2017/07/25
 - [3.1.0](https://github.com/kcwang-tw/cgmhlp-patch-note/blob/master/3-1.md#310) - 2017/07/03
 #### [3.0 Beta](https://github.com/kcwang-tw/cgmhlp-patch-note/blob/master/3-0-beta.md)
